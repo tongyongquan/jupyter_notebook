@@ -357,3 +357,246 @@
 [W 22:59:18.366 NotebookApp] WebSocket ping timeout after 90001 ms.
 [I 22:59:23.367 NotebookApp] Starting buffering for 80c598cd-b891-4a59-ac74-0f3f0fce7d3d:2371A14877484ED883BA13B2DAD9D37E
 [I 23:18:17.897 NotebookApp] New terminal with automatic name: 1
+[I 23:28:04.314 NotebookApp] Adapting to protocol v5.1 for kernel 80c598cd-b891-4a59-ac74-0f3f0fce7d3d
+[I 23:28:04.315 NotebookApp] Restoring connection for 80c598cd-b891-4a59-ac74-0f3f0fce7d3d:2371A14877484ED883BA13B2DAD9D37E
+[W 23:29:49.639 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 2.49ms referer=None
+[W 23:34:59.626 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180112171507 (58.23.9.85) 1.33ms referer=http://39.108.72.11:8888/notebooks/%E5%B0%8F%E7%94%B2%E9%B1%BCpython3%E5%85%A5%E9%97%A8/%E5%88%97%E8%A1%A8.ipynb
+[W 23:34:59.639 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180112171507 (58.23.9.85) 1.27ms referer=http://39.108.72.11:8888/notebooks/%E5%B0%8F%E7%94%B2%E9%B1%BCpython3%E5%85%A5%E9%97%A8/%E5%88%97%E8%A1%A8.ipynb
+[W 23:34:59.642 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180112171507 (58.23.9.85) 1.39ms referer=http://39.108.72.11:8888/notebooks/%E5%B0%8F%E7%94%B2%E9%B1%BCpython3%E5%85%A5%E9%97%A8/%E5%88%97%E8%A1%A8.ipynb
+[I 23:35:00.023 NotebookApp] Kernel started: 2df150f5-d337-4b1e-b838-cab50cec728a
+[I 23:35:00.741 NotebookApp] Adapting to protocol v5.1 for kernel 2df150f5-d337-4b1e-b838-cab50cec728a
+[I 23:38:20.286 NotebookApp] Kernel shutdown: 2df150f5-d337-4b1e-b838-cab50cec728a
+[I 23:38:27.957 NotebookApp] Starting buffering for 80c598cd-b891-4a59-ac74-0f3f0fce7d3d:2371A14877484ED883BA13B2DAD9D37E
+[I 23:38:31.464 NotebookApp] Kernel shutdown: 80c598cd-b891-4a59-ac74-0f3f0fce7d3d
+[I 00:20:59.115 NotebookApp] 302 GET / (114.215.45.101) 0.65ms
+[W 01:18:53.536 NotebookApp] 404 GET http://httpheader.net/ (47.203.88.202) 2.02ms referer=None
+[I 03:08:14.745 NotebookApp] 302 GET / (47.94.52.159) 0.65ms
+[W 03:24:49.806 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.81ms referer=None
+[W 05:13:18.493 NotebookApp] 404 GET http://www.baidu.com/ (123.151.42.61) 1.82ms referer=None
+[W 07:20:33.382 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.75ms referer=None
+[I 08:19:40.330 NotebookApp] 302 GET / (114.215.45.79) 0.67ms
+[W 09:33:10.349 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (94.102.49.174) 1.91ms referer=None
+[W 10:24:44.615 NotebookApp] 404 GET /master-status (140.205.225.188) 1.85ms referer=http://39.108.72.11/
+[W 10:49:04.365 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.78.50) 1.76ms referer=None
+[W 11:16:47.297 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 2.66ms referer=None
+[W 15:12:48.565 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.78ms referer=None
+[W 15:20:38.331 NotebookApp] 404 GET /master-status (140.205.225.194) 1.79ms referer=http://39.108.72.11/
+[I 15:23:01.388 NotebookApp] 302 GET /about/ (140.205.225.194) 0.60ms
+[I 16:28:33.162 NotebookApp] 302 GET / (114.215.45.101) 0.69ms
+[W 16:41:28.304 NotebookApp] 404 GET /master-status (140.205.225.199) 1.80ms referer=http://39.108.72.11/
+[W 19:09:03.164 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.86ms referer=None
+[W 20:39:51.589 NotebookApp] 404 GET http://www.so.com/?rands=_933681627020428141236328 (118.123.12.177) 1.75ms referer=None
+[W 20:39:51.681 NotebookApp] 404 GET http://www.baidu.com/?rands=_129454084809651722378520 (118.123.12.177) 1.75ms referer=None
+[W 20:39:51.778 NotebookApp] 404 GET http://www.search.com/?rands=_58889981011705401617432 (118.123.12.177) 1.73ms referer=None
+[W 20:48:25.452 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=151593410547&a=PSCN&i=661407755&p=8888 (95.213.187.186): '_xsrf' argument missing from POST
+[W 20:48:25.454 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=151593410547&a=PSCN&i=661407755&p=8888 (95.213.187.186) 3.29ms referer=http://best-proxies.ru/
+[I 20:48:25.455 NotebookApp] Malformed HTTP message from 95.213.187.186: Malformed HTTP request line
+[I 20:57:12.902 NotebookApp] 302 GET / (106.184.3.122) 0.65ms
+[I 22:58:47.466 NotebookApp] 302 GET / (141.212.122.96) 0.57ms
+[I 22:58:47.757 NotebookApp] 302 GET /tree? (141.212.122.96) 1.02ms
+[W 23:03:24.992 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.88ms referer=None
+[I 00:16:34.858 NotebookApp] 302 GET / (71.6.146.130) 0.58ms
+[I 00:16:44.763 NotebookApp] 302 GET /tree (71.6.146.130) 0.89ms
+[I 00:22:50.657 NotebookApp] 302 GET / (114.215.45.101) 0.64ms
+[W 01:18:33.816 NotebookApp] 404 GET http://www.baidu.com/ (123.151.42.61) 1.83ms referer=None
+[I 01:34:51.080 NotebookApp] 302 GET / (118.31.244.58) 0.66ms
+[W 02:58:29.079 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.80ms referer=None
+[I 03:45:17.091 NotebookApp] 302 GET / (106.184.3.122) 0.61ms
+[W 04:53:12.201 NotebookApp] 405 CONNECT check.best-proxies.ru:80 (95.213.187.188) 2.05ms referer=None
+[I 05:09:43.900 NotebookApp] 302 GET / (205.209.159.36) 0.62ms
+[I 05:09:43.943 NotebookApp] 302 GET /tree (205.209.159.36) 0.80ms
+[W 06:16:08.626 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (94.102.49.174) 1.83ms referer=None
+[W 06:54:56.607 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.81ms referer=None
+[I 08:22:09.375 NotebookApp] 302 GET / (116.62.176.205) 0.64ms
+[W 09:39:12.504 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.78.50) 1.79ms referer=None
+[W 09:42:53.403 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (172.82.166.210) 1.81ms referer=None
+[W 10:28:00.434 NotebookApp] 404 GET /master-status (140.205.225.194) 1.92ms referer=http://39.108.72.11/
+[W 10:51:21.848 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 2.37ms referer=None
+[W 13:01:27.075 NotebookApp] 404 GET http://clientapi.ipip.net/echo.php?info=1234567890 (139.162.81.62) 1.85ms referer=None
+[W 13:46:22.246 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=151599518209&a=PSCN&i=661407755&p=8888 (95.213.187.190): '_xsrf' argument missing from POST
+[W 13:46:22.248 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=151599518209&a=PSCN&i=661407755&p=8888 (95.213.187.190) 2.61ms referer=http://best-proxies.ru/
+[I 13:46:22.248 NotebookApp] Malformed HTTP message from 95.213.187.190: Malformed HTTP request line
+[W 14:47:07.710 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.84ms referer=None
+[W 15:39:57.831 NotebookApp] 404 GET /master-status (140.205.225.192) 1.90ms referer=http://39.108.72.11/
+[I 16:18:49.194 NotebookApp] 302 GET / (114.215.45.101) 0.65ms
+[I 17:50:11.159 NotebookApp] 302 GET /about/ (140.205.225.192) 0.57ms
+[W 18:18:39.147 NotebookApp] 404 GET /master-status (140.205.201.41) 1.95ms referer=http://39.108.72.11/
+[W 18:43:47.323 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.81ms referer=None
+[I 21:37:46.366 NotebookApp] 302 GET /about/ (140.205.201.41) 0.57ms
+[W 21:41:41.066 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=151602370077&a=PSCN&i=661407755&p=8888 (95.213.187.189): '_xsrf' argument missing from POST
+[W 21:41:41.068 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=151602370077&a=PSCN&i=661407755&p=8888 (95.213.187.189) 4.26ms referer=http://best-proxies.ru/
+[I 21:41:41.069 NotebookApp] Malformed HTTP message from 95.213.187.189: Malformed HTTP request line
+[W 22:20:24.699 NotebookApp] 404 GET /master-status (140.205.201.32) 1.86ms referer=http://39.108.72.11/
+[I 22:20:51.830 NotebookApp] 302 GET /about/ (140.205.201.32) 0.58ms
+[W 22:39:07.975 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.86ms referer=None
+[I 00:29:27.414 NotebookApp] 302 GET / (114.215.45.79) 0.59ms
+[I 01:38:46.696 NotebookApp] 302 GET / (106.14.104.214) 0.63ms
+[W 02:34:01.827 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.76ms referer=None
+[W 03:00:00.785 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (94.102.49.174) 1.99ms referer=None
+[W 04:39:36.484 NotebookApp] 404 GET http://www.baidu.com/ (123.151.42.61) 1.81ms referer=None
+[W 06:02:30.090 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=151605375019&a=PSCN&i=661407755&p=8888 (5.178.86.74): '_xsrf' argument missing from POST
+[W 06:02:30.092 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=151605375019&a=PSCN&i=661407755&p=8888 (5.178.86.74) 2.66ms referer=http://best-proxies.ru/
+[I 06:02:30.092 NotebookApp] Malformed HTTP message from 5.178.86.74: Malformed HTTP request line
+[W 06:30:31.074 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.86ms referer=None
+[W 06:33:09.500 NotebookApp] 404 GET http://www.qq.com/404/search_children.js (120.132.3.65) 1.91ms referer=None
+[I 08:18:20.593 NotebookApp] 302 GET / (116.62.176.205) 0.63ms
+[W 08:30:42.771 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.78.50) 1.90ms referer=None
+[W 10:27:06.165 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 2.32ms referer=None
+[W 10:45:37.181 NotebookApp] 404 GET http://clientapi.ipip.net/echo.php?info=1234567890 (139.162.81.62) 1.87ms referer=None
+[W 13:57:28.379 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=151608224807&a=PSCN&i=661407755&p=8888 (95.213.187.188): '_xsrf' argument missing from POST
+[W 13:57:28.381 NotebookApp] 403 POST http://check.best-proxies.ru/azenv.php?auth=151608224807&a=PSCN&i=661407755&p=8888 (95.213.187.188) 2.67ms referer=http://best-proxies.ru/
+[I 13:57:28.381 NotebookApp] Malformed HTTP message from 95.213.187.188: Malformed HTTP request line
+[W 14:23:20.841 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.81ms referer=None
+[W 15:37:48.994 NotebookApp] 404 GET /master-status (140.205.201.47) 1.83ms referer=http://39.108.72.11/
+[I 16:32:40.328 NotebookApp] 302 GET / (114.215.45.79) 0.67ms
+[W 16:44:32.704 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180112171507 (120.42.71.77) 2.41ms referer=http://39.108.72.11:8888/tree?
+[W 16:44:32.706 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180112171507 (120.42.71.77) 1.34ms referer=http://39.108.72.11:8888/tree?
+[W 16:45:06.513 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180112171507 (120.42.71.77) 1.49ms referer=http://39.108.72.11:8888/tree/%E5%B0%8F%E7%94%B2%E9%B1%BCpython3%E5%85%A5%E9%97%A8
+[W 16:45:06.517 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180112171507 (120.42.71.77) 1.39ms referer=http://39.108.72.11:8888/tree/%E5%B0%8F%E7%94%B2%E9%B1%BCpython3%E5%85%A5%E9%97%A8
+[W 16:45:12.262 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180112171507 (120.42.71.77) 1.45ms referer=http://39.108.72.11:8888/notebooks/%E5%B0%8F%E7%94%B2%E9%B1%BCpython3%E5%85%A5%E9%97%A8/%E5%85%83%E7%BB%84.ipynb
+[W 16:45:12.266 NotebookApp] Notebook 小甲鱼python3入门/元组.ipynb is not trusted
+[W 16:45:12.270 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180112171507 (120.42.71.77) 1.59ms referer=http://39.108.72.11:8888/notebooks/%E5%B0%8F%E7%94%B2%E9%B1%BCpython3%E5%85%A5%E9%97%A8/%E5%85%83%E7%BB%84.ipynb
+[W 16:45:12.272 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180112171507 (120.42.71.77) 1.39ms referer=http://39.108.72.11:8888/notebooks/%E5%B0%8F%E7%94%B2%E9%B1%BCpython3%E5%85%A5%E9%97%A8/%E5%85%83%E7%BB%84.ipynb
+[I 16:45:12.479 NotebookApp] Kernel started: b9bed89a-a6d9-4e03-b9ec-4f1576a0e4cb
+[I 16:45:13.201 NotebookApp] Adapting to protocol v5.1 for kernel b9bed89a-a6d9-4e03-b9ec-4f1576a0e4cb
+[I 16:47:12.515 NotebookApp] Saving file at /小甲鱼python3入门/元组.ipynb
+[I 16:49:12.514 NotebookApp] Saving file at /小甲鱼python3入门/元组.ipynb
+[I 16:51:12.525 NotebookApp] Saving file at /小甲鱼python3入门/元组.ipynb
+[I 16:53:12.563 NotebookApp] Saving file at /小甲鱼python3入门/元组.ipynb
+[I 16:57:12.542 NotebookApp] Saving file at /小甲鱼python3入门/元组.ipynb
+[I 16:59:12.551 NotebookApp] Saving file at /小甲鱼python3入门/元组.ipynb
+[I 17:01:03.160 NotebookApp] Saving file at /小甲鱼python3入门/元组.ipynb
+[I 17:01:13.174 NotebookApp] Kernel interrupted: b9bed89a-a6d9-4e03-b9ec-4f1576a0e4cb
+[I 17:01:25.916 NotebookApp] Starting buffering for b9bed89a-a6d9-4e03-b9ec-4f1576a0e4cb:A206E1F245884223A56B24F342B1BA13
+[I 17:01:29.002 NotebookApp] Creating new notebook in /小甲鱼python3入门
+[W 17:01:29.578 NotebookApp] 404 GET /i18n/zh-CN/LC_MESSAGES/nbjs.json?v=20180112171507 (120.42.71.77) 1.44ms referer=http://39.108.72.11:8888/notebooks/%E5%B0%8F%E7%94%B2%E9%B1%BCpython3%E5%85%A5%E9%97%A8/Untitled.ipynb?kernel_name=python3
+[W 17:01:29.603 NotebookApp] 404 GET /static/components/moment/locale/zh-cn.js?v=20180112171507 (120.42.71.77) 1.48ms referer=http://39.108.72.11:8888/notebooks/%E5%B0%8F%E7%94%B2%E9%B1%BCpython3%E5%85%A5%E9%97%A8/Untitled.ipynb?kernel_name=python3
+[W 17:01:29.724 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180112171507 (120.42.71.77) 2.02ms referer=http://39.108.72.11:8888/notebooks/%E5%B0%8F%E7%94%B2%E9%B1%BCpython3%E5%85%A5%E9%97%A8/Untitled.ipynb?kernel_name=python3
+[I 17:01:29.748 NotebookApp] Kernel started: c89b221a-bc94-4914-aef7-37e5cc810eaa
+[I 17:01:30.469 NotebookApp] Adapting to protocol v5.1 for kernel c89b221a-bc94-4914-aef7-37e5cc810eaa
+[I 17:02:00.628 NotebookApp] Kernel shutdown: b9bed89a-a6d9-4e03-b9ec-4f1576a0e4cb
+[I 17:03:29.777 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 17:07:29.795 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 17:09:29.784 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 17:13:29.806 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 17:15:29.802 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 17:17:29.811 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 17:19:29.814 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 17:23:29.836 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 17:45:29.891 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 17:47:29.920 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 17:49:29.909 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 17:53:29.902 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 17:55:12.752 NotebookApp] Starting buffering for c89b221a-bc94-4914-aef7-37e5cc810eaa:4F4EA281C4884BB1896C457FB9438296
+[I 17:55:12.972 NotebookApp] Kernel restarted: c89b221a-bc94-4914-aef7-37e5cc810eaa
+[I 17:55:13.868 NotebookApp] Adapting to protocol v5.1 for kernel c89b221a-bc94-4914-aef7-37e5cc810eaa
+[I 17:55:13.869 NotebookApp] Restoring connection for c89b221a-bc94-4914-aef7-37e5cc810eaa:4F4EA281C4884BB1896C457FB9438296
+[I 17:55:13.869 NotebookApp] Replaying 3 buffered messages
+[I 17:55:29.881 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 17:57:29.889 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 17:59:29.895 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 18:01:29.893 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 18:03:29.942 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 18:05:29.936 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 18:07:29.347 NotebookApp] Kernel restarted: c89b221a-bc94-4914-aef7-37e5cc810eaa
+[I 18:07:29.353 NotebookApp] Starting buffering for c89b221a-bc94-4914-aef7-37e5cc810eaa:4F4EA281C4884BB1896C457FB9438296
+[I 18:07:29.986 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 18:07:30.145 NotebookApp] Adapting to protocol v5.1 for kernel c89b221a-bc94-4914-aef7-37e5cc810eaa
+[I 18:07:30.146 NotebookApp] Restoring connection for c89b221a-bc94-4914-aef7-37e5cc810eaa:4F4EA281C4884BB1896C457FB9438296
+[I 18:09:29.918 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 18:11:29.923 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 18:13:29.930 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 18:15:29.947 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 18:17:29.948 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 18:19:29.960 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[W 18:20:03.494 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 2.02ms referer=None
+[I 18:25:29.988 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 18:27:29.966 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 18:29:29.971 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 18:31:29.974 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 18:33:29.981 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 18:35:29.992 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 18:37:29.997 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 18:39:29.998 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 18:41:30.026 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 18:43:30.005 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 18:45:30.010 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 18:47:30.012 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 18:49:30.023 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 18:51:30.027 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 18:53:30.035 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 18:55:30.046 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 18:57:30.049 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 18:59:30.036 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 19:01:30.057 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 19:03:30.052 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 19:07:30.059 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 19:09:30.069 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 19:13:25.494 NotebookApp] Starting buffering for c89b221a-bc94-4914-aef7-37e5cc810eaa:4F4EA281C4884BB1896C457FB9438296
+[I 19:13:25.712 NotebookApp] Kernel restarted: c89b221a-bc94-4914-aef7-37e5cc810eaa
+[I 19:13:26.507 NotebookApp] Adapting to protocol v5.1 for kernel c89b221a-bc94-4914-aef7-37e5cc810eaa
+[I 19:13:26.507 NotebookApp] Restoring connection for c89b221a-bc94-4914-aef7-37e5cc810eaa:4F4EA281C4884BB1896C457FB9438296
+[I 19:13:26.507 NotebookApp] Replaying 3 buffered messages
+[I 19:13:30.078 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 19:15:30.073 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 19:17:30.077 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 19:19:30.204 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 19:25:30.145 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 19:27:30.113 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 19:35:30.160 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 19:41:30.186 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 19:43:30.131 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 19:45:30.180 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 19:47:30.178 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[W 19:48:49.649 NotebookApp] 404 GET /master-status (140.205.201.44) 2.01ms referer=http://39.108.72.11/
+[I 19:49:09.107 NotebookApp] Starting buffering for c89b221a-bc94-4914-aef7-37e5cc810eaa:4F4EA281C4884BB1896C457FB9438296
+[I 19:49:09.337 NotebookApp] Kernel restarted: c89b221a-bc94-4914-aef7-37e5cc810eaa
+[I 19:49:10.393 NotebookApp] Adapting to protocol v5.1 for kernel c89b221a-bc94-4914-aef7-37e5cc810eaa
+[I 19:49:10.393 NotebookApp] Restoring connection for c89b221a-bc94-4914-aef7-37e5cc810eaa:4F4EA281C4884BB1896C457FB9438296
+[I 19:49:10.394 NotebookApp] Replaying 6 buffered messages
+[I 19:49:30.147 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 19:51:30.185 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 19:53:30.170 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 19:55:30.176 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 19:57:30.175 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 19:59:30.172 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 20:01:30.211 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 20:02:47.188 NotebookApp] Starting buffering for c89b221a-bc94-4914-aef7-37e5cc810eaa:4F4EA281C4884BB1896C457FB9438296
+[I 20:02:47.410 NotebookApp] Kernel restarted: c89b221a-bc94-4914-aef7-37e5cc810eaa
+[I 20:02:48.498 NotebookApp] Adapting to protocol v5.1 for kernel c89b221a-bc94-4914-aef7-37e5cc810eaa
+[I 20:02:48.499 NotebookApp] Restoring connection for c89b221a-bc94-4914-aef7-37e5cc810eaa:4F4EA281C4884BB1896C457FB9438296
+[I 20:02:48.499 NotebookApp] Replaying 6 buffered messages
+[I 20:03:11.802 NotebookApp] Kernel restarted: c89b221a-bc94-4914-aef7-37e5cc810eaa
+[I 20:03:11.808 NotebookApp] Starting buffering for c89b221a-bc94-4914-aef7-37e5cc810eaa:4F4EA281C4884BB1896C457FB9438296
+[I 20:03:12.817 NotebookApp] Adapting to protocol v5.1 for kernel c89b221a-bc94-4914-aef7-37e5cc810eaa
+[I 20:03:12.818 NotebookApp] Restoring connection for c89b221a-bc94-4914-aef7-37e5cc810eaa:4F4EA281C4884BB1896C457FB9438296
+[I 20:03:30.211 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 20:03:46.463 NotebookApp] Starting buffering for c89b221a-bc94-4914-aef7-37e5cc810eaa:4F4EA281C4884BB1896C457FB9438296
+[I 20:03:46.682 NotebookApp] Kernel restarted: c89b221a-bc94-4914-aef7-37e5cc810eaa
+[I 20:03:47.684 NotebookApp] Adapting to protocol v5.1 for kernel c89b221a-bc94-4914-aef7-37e5cc810eaa
+[I 20:03:47.685 NotebookApp] Restoring connection for c89b221a-bc94-4914-aef7-37e5cc810eaa:4F4EA281C4884BB1896C457FB9438296
+[I 20:03:47.685 NotebookApp] Replaying 6 buffered messages
+[I 20:05:30.211 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 20:09:30.226 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 20:11:30.205 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 20:13:30.240 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 20:15:30.215 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 20:17:30.225 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 20:19:30.229 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 20:21:30.235 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 20:23:30.239 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 20:25:30.242 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 20:27:30.254 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 20:29:30.252 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 20:31:30.244 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 20:33:30.256 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 20:35:30.261 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 20:36:00.682 NotebookApp] Starting buffering for c89b221a-bc94-4914-aef7-37e5cc810eaa:4F4EA281C4884BB1896C457FB9438296
+[I 20:36:00.900 NotebookApp] Kernel restarted: c89b221a-bc94-4914-aef7-37e5cc810eaa
+[I 20:36:02.060 NotebookApp] Adapting to protocol v5.1 for kernel c89b221a-bc94-4914-aef7-37e5cc810eaa
+[I 20:36:02.061 NotebookApp] Restoring connection for c89b221a-bc94-4914-aef7-37e5cc810eaa:4F4EA281C4884BB1896C457FB9438296
+[I 20:36:02.061 NotebookApp] Replaying 3 buffered messages
+[I 20:36:10.847 NotebookApp] Saving file at /小甲鱼python3入门/字符串.ipynb
+[I 20:36:19.863 NotebookApp] Starting buffering for c89b221a-bc94-4914-aef7-37e5cc810eaa:4F4EA281C4884BB1896C457FB9438296
+[I 20:36:24.338 NotebookApp] Kernel shutdown: c89b221a-bc94-4914-aef7-37e5cc810eaa
+[I 20:36:38.481 NotebookApp] New terminal with automatic name: 2
