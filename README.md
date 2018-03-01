@@ -1,5 +1,5 @@
-#notebook
-使用jupyter——notebook 记录的 python相关书籍.视频的学习笔记.
+#jupyter_notebook
+<p>使用jupyter——notebook 记录的 python相关书籍.视频的学习笔记.<p>
 
 #python
 <ol>
